@@ -1,4 +1,41 @@
-## Hi there 👋 I'm a backend developer
+<!-- ![header](https://raw.githubusercontent.com/larsroettig/larsroettig/master/images/Twitter_Header.jpg)
+
+
+<p align="center">
+  <a href="https://larsroettig.dev">
+  <img src="https://img.shields.io/badge/-larsroettig.dev-%23000?logo=React&style=for-the-badge" alt="LarsRoettig.dev"/>
+  </a>
+  <a href="https://github.com/larsroettig?tab=followers">
+    <img src="https://img.shields.io/github/followers/larsroettig?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/larsroettig">
+    <img src="https://img.shields.io/twitter/follow/larsroettig?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="http://youtube.com/LarsRoettig?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/channel/views/UChc7jbOW4s_DRyS56zwD-cQ??label=YouTube&logo=YouTube&style=for-the-badge" />
+  </a>
+</p>
+
+## Hi there,
+
+I develop Magento Projects as Software Engineer at TechDivision GmbH.Over 10 years of development experience working with different clients over the world. 
+As Magento PWA Studio Maintainer i try help with any problem or feature request.
+In my Free time I really like to bask in nature’s glory right here in the south of Bavaria. 
+I also like cycling, hiking or sometimes just relax somewhere to free the mind and gain new ideas.
+
+## Languages 📝
+<img
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=larsroettig&layout=compact&theme=tokyonight"
+     />
+     
+## Contribution Graph 📊
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=larsroettig&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=larsroettig&theme=tokyonight" /> -->
+
+
+
+<!-- ## Hi there 👋 I'm a backend developer
 
 <a href="https://t.me/uudfa57">
   <img align="left" alt="Telegram" width="22px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667">
@@ -58,18 +95,32 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=material-square&logo=github)
 <!-- ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=material-square&logo=gitlab) -->
 
-**Learning**
+<!-- **Learning**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vue.js)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=whiter)
-![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
+![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css) -->
 
 <!-- ![Go](https://img.shields.io/badge/-Go-grey?style=material-square&logo=go) -->
 <!-- ![С#](https://img.shields.io/badge/-%D0%A1Sharp-1d72b1?style=material-square&logo=csharp) -->
 <!-- ![С++](https://img.shields.io/badge/-C++-1d72b1?style=material-square&logo=cplusplus) -->
 
-## 𝗦𝘁𝗮𝘁𝘀
+<!-- ## 𝗦𝘁𝗮𝘁𝘀
 
 ![kloveazaks github stats](https://github-readme-stats.vercel.app/api?username=kloveazaks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![kloveazaks Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kloveazaks&layout=compact&count_private=true&theme=tokyonight)
+![kloveazaks Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kloveazaks&layout=compact&count_private=true&theme=tokyonight&langs_count=30)
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kloveazaks&repo=invoicely" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kloveazaks&repo=django_movie" />
+</a> --> -->
+
+
+
+
+
