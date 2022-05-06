@@ -71,6 +71,5 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![kloveazaks github stats](https://github-readme-stats.vercel.app/api?username=kloveazaks&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true)
-![kloveazaks Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kloveazaks&layout=compact&count_private=true&theme=shades-of-purple)
-
+![kloveazaks github stats](https://github-readme-stats.vercel.app/api?username=kloveazaks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![kloveazaks Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kloveazaks&layout=compact&count_private=true&theme=tokyonight)
