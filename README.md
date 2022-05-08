@@ -11,7 +11,7 @@
   <a href="http://twitter.com/kloveazaks">
     <img src="https://img.shields.io/twitter/follow/larsroettig?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
-  <a href="http://youtube.com/LarsRoettig?sub_confirmation=1">
+  <a href="http://youtube.com/kloveazaks?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/views/UChc7jbOW4s_DRyS56zwD-cQ??label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
 </p>
@@ -31,9 +31,9 @@ I'm backend developer
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kloveazaks&theme=tokyonight" /> 
 
  
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kloveazaks&repo=invoicely" />
-</a>
+</a> -->
 
   
   
