@@ -1,6 +1,6 @@
 ![header](https://raw.githubusercontent.com/kloveazaks/kloveazaks/master/images/header.jpg)
 
-
+<!-- 
 <p align="center">
   <a href="https://kloveazaks.dev">
   <img src="https://img.shields.io/badge/-larsroettig.dev-%23000?logo=React&style=for-the-badge" alt="kloveazaks.dev"/>
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/youtube/channel/views/UChc7jbOW4s_DRyS56zwD-cQ??label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
 </p>
-
+ -->
 ## Hi there,
 
 I'm backend developer
