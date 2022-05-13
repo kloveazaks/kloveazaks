@@ -21,7 +21,7 @@
 I'm backend developer
 
 ## Languages 📝
-![kloveazaks Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kloveazaks&layout=compact&count_private=true&theme=tokyonight&langs_count=30)
+![kloveazaks Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kloveazaks&layout=compact&count_private=true&theme=tokyonight&langs_count=20)
 
      
      
