@@ -58,8 +58,9 @@ I'm backend developer -->
 ### Technology stack
 
 <!-- <img align="right" alt="GIF" src="https://github.com/kloveazaks/kloveazaks/blob/main/code.gif?raw=true" width="500" height="320" />  -->
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kloveazaks/kloveazaks/master/images/header.jpg" width="700" /> 
- **Back-end**
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kloveazaks/kloveazaks/master/images/header.jpg" width="500" /> 
+
+**Back-end**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=material-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=material-square&logo=Django)
