@@ -1,7 +1,7 @@
-<!-- ![header](https://raw.githubusercontent.com/kloveazaks/kloveazaks/master/images/header.jpg) -->
+![header](https://raw.githubusercontent.com/kloveazaks/kloveazaks/master/images/header.jpg)
 
-<!-- 
-<p align="center">
+
+<!-- <p align="center">
   <a href="https://kloveazaks.dev">
   <img src="https://img.shields.io/badge/-larsroettig.dev-%23000?logo=React&style=for-the-badge" alt="kloveazaks.dev"/>
   </a>
@@ -14,30 +14,8 @@
   <a href="http://youtube.com/kloveazaks?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/views/UChc7jbOW4s_DRyS56zwD-cQ??label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
-</p>
- -->
-<!-- ## Hi there, 
-
-I'm backend developer -->
-
-<!-- ## Languages 📝
-![kloveazaks Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kloveazaks&layout=compact&count_private=true&theme=tokyonight&langs_count=20)
-
-     
-     
-## Contribution Graph 📊
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kloveazaks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kloveazaks&theme=tokyonight" />  -->
-
+</p> -->
  
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kloveazaks&repo=invoicely" />
-</a> -->
-
-  
-  
-
 ## Hi there 👋 I'm a backend developer
 
 <a href="https://t.me/uudfa57">
@@ -54,11 +32,6 @@ I'm backend developer -->
 </a>
 
 </br>
-
-### Technology stack
-
-<!-- <img align="right" alt="GIF" src="https://github.com/kloveazaks/kloveazaks/blob/main/code.gif?raw=true" width="500" height="320" />  -->
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kloveazaks/kloveazaks/master/images/header.jpg" width="500" /> 
 
 **Back-end**
 
@@ -104,20 +77,43 @@ I'm backend developer -->
 ![Linux](https://img.shields.io/badge/Linux-black?style=material-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=material-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=material-square&logo=github) 
-<!-- ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=material-square&logo=gitlab)  -->
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=material-square&logo=gitlab)  
 
-<!--  **Learning** -->
+ **Learning** 
+
+
+<!-- ![Go](https://img.shields.io/badge/-Go-grey?style=material-square&logo=go)   -->
+<!-- ![С#](https://img.shields.io/badge/-%D0%A1Sharp-1d72b1?style=material-square&logo=csharp)   -->
+![С++](https://img.shields.io/badge/-C++-1d72b1?style=material-square&logo=cplusplus)
+![С](https://img.shields.io/badge/-C-1d72b1?style=material-square&logo=c)
+![Haskell](https://img.shields.io/badge/-haskell-1d72b1?style=material-square&logo=haskell)
 
 
 
-<!-- ![Go](https://img.shields.io/badge/-Go-grey?style=material-square&logo=go)  -->
-<!-- ![С#](https://img.shields.io/badge/-%D0%A1Sharp-1d72b1?style=material-square&logo=csharp)  -->
-<!-- ![С++](https://img.shields.io/badge/-C++-1d72b1?style=material-square&logo=cplusplus)  -->
+
+## Contribution Graph 📊
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kloveazaks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kloveazaks&theme=tokyonight" />  
+
+## Languages 📝
+![kloveazaks Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kloveazaks&layout=compact&count_private=true&theme=tokyonight&langs_count=20)
+
+<!-- ## Hi there 👋 I'm a backend developer -->
+
+
+
+<!-- ### Technology stack -->
+
+<!-- <img align="right" alt="GIF" src="https://github.com/kloveazaks/kloveazaks/blob/main/code.gif?raw=true" width="500" height="320" />  -->
+<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/kloveazaks/kloveazaks/master/images/header.jpg" width="500" />  -->
+
+
 
 <!-- ## 𝗦𝘁𝗮𝘁𝘀 -->
 
-![kloveazaks github stats](https://github-readme-stats.vercel.app/api?username=kloveazaks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![kloveazaks Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kloveazaks&layout=compact&count_private=true&theme=tokyonight&langs_count=30)
+<!-- ![kloveazaks github stats](https://github-readme-stats.vercel.app/api?username=kloveazaks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![kloveazaks Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kloveazaks&layout=compact&count_private=true&theme=tokyonight&langs_count=30) -->
 
 
 
