@@ -116,18 +116,18 @@ I'm backend developer -->
 
 <!-- ## 𝗦𝘁𝗮𝘁𝘀 -->
 
-<!-- ![kloveazaks github stats](https://github-readme-stats.vercel.app/api?username=kloveazaks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![kloveazaks github stats](https://github-readme-stats.vercel.app/api?username=kloveazaks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 ![kloveazaks Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kloveazaks&layout=compact&count_private=true&theme=tokyonight&langs_count=30)
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kloveazaks&repo=invoicely" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kloveazaks&repo=django_movie" />
-</a> 
- -->
+</a>  -->
+
 
 
 
